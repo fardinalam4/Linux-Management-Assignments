@@ -18,12 +18,8 @@ multipass shell my-vm
 
 
 ### Screenshots
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20185224.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20185348.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20185838.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191250.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191340.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/Screenshot%202025-02-16%20191410.png)
+
+https://github.com/fardinalam4/Linux-Management-Assignments/tree/main/Virtualization
 ### Challenges Faced
 
 
@@ -46,9 +42,7 @@ lxc exec my-container -- bash
 
 
 ### Screenshots
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/a.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/b.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/c.png)
+https://github.com/fardinalam4/Linux-Management-Assignments/tree/main/Virtualization
 ### Challenges Faced
 
 
@@ -77,9 +71,7 @@ docker rm my-nginx
 
 
 ### Screenshots
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/d.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/e.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/f.png)
+https://github.com/fardinalam4/Linux-Management-Assignments/tree/main/Virtualization
 ### Challenges Faced
 
 
@@ -106,8 +98,8 @@ snapcraft
 
 
 ### Screenshots
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/1.png)
-![](https://github.com/FawazSalman/linux-management/blob/main/virtualization/images/2.png)
+https://github.com/fardinalam4/Linux-Management-Assignments/tree/main/Virtualization
+
 ### Challenges Faced
 
 
